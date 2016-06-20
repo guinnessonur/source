@@ -249,7 +249,7 @@
         retrieveFromStorage: retrieveFromStorage,
         settings: {
             botName: "basicBot",
-            language: "english",
+            language: "turkish",
             chatLink: "https://rawgit.com/basicBot/source/master/lang/tr.json",
             scriptLink: "https://rawgit.com/guinnessonur/source/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
